@@ -1,7 +1,8 @@
 # sql-homework
 ## Looking for Suspicious Transactions
 In this data analysis a database of csv data has been created. The schema and seed files were used to pull and create the tables of data in postgresql. Given the following connections in the created entity-relationship diagrma (ERD):
-![ERD for Transaction Data]("https://github.com/awanzek/sql-homework/blob/master/ERD.png?raw=true")
+![ERD for Transaction Data](./ERD.png)
+
 
 
 This data was then queried to view specific timeframes of data, look for abnormal charges in early morning hours and to look for micro hacking charges that are abnormally low and occur frequently unnoticed by most cardholders.
